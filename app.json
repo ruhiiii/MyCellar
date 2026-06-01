@@ -1,0 +1,18 @@
+{
+    "expo": {
+        "name": "Wine Cellar",
+        "slug": "wine-cellar",
+        "version": "1.0.0",
+        "platforms": [
+            "ios",
+            "android",
+            "web"
+        ],
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true
+        }
+    }
+}
