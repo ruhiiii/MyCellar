@@ -32,7 +32,7 @@ export default function HomeScreen() {
     );
 
     return (
-        <View style={styles.container}>
+        <View testID="home-screen" style={styles.container}>
             <View style={styles.hero}>
                 <Text style={styles.title}>My Cellar</Text>
                 <Text style={styles.subtitle}>A clean log for every bottle you try.</Text>
